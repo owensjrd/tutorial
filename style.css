@@ -11,3 +11,27 @@ section {
 	margin: auto;
 	padding: 20px;
 }
+
+#imageOne {
+	background-image: url("images/imageOne.jpg");
+	background-size: 100%;
+	max-width: 100%;
+	height: 300px;
+	background-attachment: fixed;
+}
+
+#imageTwo {
+	background-image: url("images/imageTwo.jpg");
+	background-size: 100%;
+	max-width: 100%;
+	height: 300px;
+	background-attachment: fixed;
+}
+
+#imageThree {
+	background-image: url("images/imageThree.jpg");
+	background-size: 100%;
+	max-width: 100%;
+	height: 300px;
+	background-attachment: fixed;
+}
