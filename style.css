@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	margin: 0;
+}
+
+section {
+	width: initial;
+	background-color: gold;
+	margin: auto;
+	padding: 20px;
+}
